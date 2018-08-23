@@ -9,29 +9,29 @@
 *.color8:       #16132d
 
 ! red
-*.color1:       #928486
-*.color9:       #b2a1a3
+*.color1:       #b27d72
+*.color9:       #cc9e95
 
 ! green
-*.color2:       #8d9664
-*.color10:      #aab286
+*.color2:       #5f8cb6
+*.color10:      #86abcc
 
 ! yellow
-*.color3:       #be2aac
-*.color11:      #d94dc8
+*.color3:       #b03f9b
+*.color11:      #c963b6
 
 ! blue
-*.color4:       #b33f82
-*.color12:      #cb65a0
+*.color4:       #c89d44
+*.color12:      #d9b770
 
 ! magenta
-*.color5:       #8c5c7b
-*.color13:      #ab7b9a
+*.color5:       #b83c85
+*.color13:      #ce63a2
 
 ! cyan
-*.color6:       #a4815b
-*.color14:      #bc9f80
+*.color6:       #eb6e31
+*.color14:      #f49465
 
 ! white
-*.color7:       #f1c0d2
-*.color15:      #fcf2f6
+*.color7:       #f3bfcb
+*.color15:      #fdf2f5

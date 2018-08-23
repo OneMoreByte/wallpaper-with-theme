@@ -9,20 +9,20 @@
 *.color8:       #202020
 
 ! red
-*.color1:       #dddddd
-*.color9:       #fbfbfb
+*.color1:       #d9d9d9
+*.color9:       #f7f7f7
 
 ! green
 *.color2:       #828282
 *.color10:      #a39e9e
 
 ! yellow
-*.color3:       #828282
-*.color11:      #a39e9e
+*.color3:       #838383
+*.color11:      #a49f9f
 
 ! blue
 *.color4:       #848484
-*.color12:      #a6a0a0
+*.color12:      #a5a0a0
 
 ! magenta
 *.color5:       #838383
@@ -30,8 +30,8 @@
 
 ! cyan
 *.color6:       #838383
-*.color14:      #a49f9f
+*.color14:      #a4a0a0
 
 ! white
 *.color7:       #d9d9d9
-*.color15:      #f7f7f7
+*.color15:      #f8f7f7
