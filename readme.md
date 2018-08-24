@@ -1,3 +1,8 @@
+# Wallpapers generated with GVCCI
+
+These are all my wallpapers with their generated themes.
+
+
 ## blue
 ![blue/example.html](blue/wallpaper.jpg)
 ![terminal colors for blue](blue/swatch.jpg)
