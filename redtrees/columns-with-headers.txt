@@ -6,20 +6,20 @@ Foreground
 
 Normal ANSI Colors
 #1a1a1a
-#97766e
-#5885c6
-#ed720e
-#0587da
-#987d64
-#469cbb
-#edd2c5
+#b9673a
+#4578ca
+#f07412
+#0485d0
+#d55f07
+#51767e
+#e2d8d0
 
 Bright ANSI Colors
 #333333
-#b3968f
-#82a5da
-#f69242
-#21a6fb
-#b39b86
-#71b5ce
-#fcf6f3
+#d08861
+#729adb
+#f69649
+#16a7fb
+#f97d21
+#6b98a1
+#f9f7f5
