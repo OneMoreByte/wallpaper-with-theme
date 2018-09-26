@@ -129,3 +129,21 @@ These are all my wallpapers with their generated themes.
 ## fallsandbridge
 ![fallsandbridge/example.html](fallsandbridge/wallpaper.jpg)
 ![terminal colors for fallsandbridge](fallsandbridge/swatch.jpg)
+## Above
+![Above/example.html](Above/wallpaper.jpg)
+![terminal colors for Above](Above/swatch.jpg)
+## Beijing_future
+![Beijing_future/example.html](Beijing_future/wallpaper.jpg)
+![terminal colors for Beijing_future](Beijing_future/swatch.jpg)
+## Desk
+![Desk/example.html](Desk/wallpaper.jpg)
+![terminal colors for Desk](Desk/swatch.jpg)
+## FB_IMG_1537833094013
+![FB_IMG_1537833094013/example.html](FB_IMG_1537833094013/wallpaper.jpg)
+![terminal colors for FB_IMG_1537833094013](FB_IMG_1537833094013/swatch.jpg)
+## NeonCieling
+![NeonCieling/example.html](NeonCieling/wallpaper.jpg)
+![terminal colors for NeonCieling](NeonCieling/swatch.jpg)
+## StiltLakeHouse
+![StiltLakeHouse/example.html](StiltLakeHouse/wallpaper.jpg)
+![terminal colors for StiltLakeHouse](StiltLakeHouse/swatch.jpg)

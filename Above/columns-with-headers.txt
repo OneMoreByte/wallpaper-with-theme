@@ -1,0 +1,25 @@
+Background
+#e7e4b8
+
+Foreground
+#004034
+
+Normal ANSI Colors
+#4c491a
+#924302
+#44654e
+#898201
+#526549
+#997e0a
+#54603e
+#f6d7bb
+
+Bright ANSI Colors
+#726d27
+#ce5f03
+#5c896a
+#c6bc01
+#6f8862
+#d2ad0e
+#748556
+#fdf7f1
