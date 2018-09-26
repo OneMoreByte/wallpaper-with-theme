@@ -33,3 +33,5 @@ done
 for wal in $HOME/Code/wallpaper-with-theme/*/wallpaper; do
   mv $wal $wal.jpg
 done
+
+./fix-color.sh
