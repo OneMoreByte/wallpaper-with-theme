@@ -147,3 +147,41 @@ These are all my wallpapers with their generated themes.
 ## StiltLakeHouse
 ![StiltLakeHouse/example.html](StiltLakeHouse/wallpaper.jpg)
 ![terminal colors for StiltLakeHouse](StiltLakeHouse/swatch.jpg)
+## boatbridge
+![boatbridge/example.html](boatbridge/wallpaper.jpg)
+## boatside
+![boatside/example.html](boatside/wallpaper.jpg)
+## downbridge
+![downbridge/example.html](downbridge/wallpaper.jpg)
+## walledgarden
+![walledgarden/example.html](walledgarden/wallpaper.jpg)
+## boatbridge
+![boatbridge/example.html](boatbridge/wallpaper.jpg)
+## boatside
+![boatside/example.html](boatside/wallpaper.jpg)
+## downbridge
+![downbridge/example.html](downbridge/wallpaper.jpg)
+## walledgarden
+![walledgarden/example.html](walledgarden/wallpaper.jpg)
+## watchoutforsteephill
+![watchoutforsteephill/example.html](watchoutforsteephill/wallpaper.jpg)
+## boatbridge
+![boatbridge/example.html](boatbridge/wallpaper.jpg)
+## boatside
+![boatside/example.html](boatside/wallpaper.jpg)
+## downbridge
+![downbridge/example.html](downbridge/wallpaper.jpg)
+## walledgarden
+![walledgarden/example.html](walledgarden/wallpaper.jpg)
+## watchoutforsteephill
+![watchoutforsteephill/example.html](watchoutforsteephill/wallpaper.jpg)
+## boatbridge
+![boatbridge/example.html](boatbridge/wallpaper.jpg)
+## boatside
+![boatside/example.html](boatside/wallpaper.jpg)
+## downbridge
+![downbridge/example.html](downbridge/wallpaper.jpg)
+## walledgarden
+![walledgarden/example.html](walledgarden/wallpaper.jpg)
+## watchoutforsteephill
+![watchoutforsteephill/example.html](watchoutforsteephill/wallpaper.jpg)
