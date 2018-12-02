@@ -1,37 +1,46 @@
 #!/bin/bash
 
-cd $HOME/Code/gvcci/
-for wallpaper in $HOME/wallpaper/*.jpg; do
+loc=$(pwd)
+
+cd ./gvcci
+for wallpaper in ${loc}/wallpapers/*.jpg; do
   echo $wallpaper
   trimmed=$(basename -s .jpg $wallpaper)
   echo $trimmed
   [ -e "$wallpaper" ] || continue
 
-  if [ ! -d $HOME/Code/wallpaper-with-theme/$trimmed ]; then
+  if [ ! -d $loc/themes/$trimmed ]; then
     ./gvcci.sh $wallpaper
     cp ./examples.html $HOME/.gvcci/themes/$trimmed
 
-    ## Make Swatch
+    ## Make Swatch and other stuff
     cd $HOME/.gvcci/themes/$trimmed
-    python3 $HOME/Code/wallpaper-with-theme/make-swatch.py
-    cd $HOME/Code/gvcci/
+    python3 $loc/scripts/post-gvcci.py $loc
+    cd $loc/gvcci
 
     ## Write readme line
     echo "## ${trimmed}
-![${trimmed}/example.html](${trimmed}/wallpaper.jpg)
-![terminal colors for ${trimmed}](${trimmed}/swatch.jpg)" >> $HOME/Code/wallpaper-with-theme/readme.md
+![${trimmed}/example.html](${trimmed}/wallpaper-preview.jpg)
+![terminal colors for ${trimmed}](${trimmed}/swatch.jpg)" >> $loc/readme.md
   fi
 done
 
 
-mv $HOME/.gvcci/themes/* $HOME/Code/wallpaper-with-theme/
+mv $HOME/.gvcci/themes/* $loc/themes/
 
-for examples in $HOME/Code/wallpaper-with-theme/*/*.html; do
-  sed -i -e "s+/home/jsck/wallpaper/.*.jpg+./wallpaper.jpg+g" $examples
+for examples in $loc/themes/*/*.html; do
+  sed -i -e "s+/home/jsck/wallpaper/.*.jpg+./wallpaper-preview.jpg+g" $examples
 done
 
-for wal in $HOME/Code/wallpaper-with-theme/*/wallpaper; do
+# Clean up generic-ish named stuff
+for wal in $loc/themes/*/wallpaper; do
   mv $wal $wal.jpg
 done
 
-./fix-color.sh
+# Make convience links for the mac side
+for theme in $loc/themes/*; do
+    name=${theme#"${loc}"}
+    ln -s $wal $loc/iterm-configs/${name}.itermcolors
+done
+
+$loc/scripts/fix-color.sh

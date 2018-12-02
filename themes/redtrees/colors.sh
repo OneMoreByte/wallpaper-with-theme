@@ -1,23 +1,23 @@
 
 # Special
 background=#000000
-foreground=#ffcdaf
-cursor=#ffcdaf
+foreground=#80cfff
+cursor=#80cfff
 
 # Colors
 color0=#1a1a1a
-color1=#b9673a
-color2=#4578ca
-color3=#f07412
-color4=#0485d0
-color5=#d55f07
-color6=#51767e
-color7=#e2d8d0
+color1=#715a52
+color2=#0475b9
+color3=#e77606
+color4=#3587a9
+color5=#907962
+color6=#4f7a83
+color7=#ecd4c6
 color8=#333333
-color9=#d08861
-color10=#729adb
-color11=#f69649
-color12=#16a7fb
-color13=#f97d21
-color14=#6b98a1
-color15=#f9f7f5
+color9=#95776b
+color10=#059bf6
+color11=#fb9430
+color12=#51a7ca
+color13=#ad9882
+color14=#699ba6
+color15=#fbf6f4

@@ -1,0 +1,104 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    min-height: 0;
+}
+
+
+window #waybar {
+    background: <alpha-background>;
+    /*border-bottom: 3px solid rgba(100, 114, 125, 0.5);*/
+    color: <foreground>;
+}
+
+#battery {
+    background-color: <green>;
+    color: <black>;
+}
+
+#battery.warning {
+    background-color: <light-orange>;
+    color: <light-grey>;
+}
+
+#battery.critical {
+    background-color: <red>;
+    color: <light-grey>;
+}
+
+#clock {
+    background-color: <grey>;
+    color: <light-grey>;
+}
+
+#cpu {
+    background-color: <purple>;
+    color: <light-grey>;
+}
+
+#memory {
+    background-color: <green>;
+    color: <light-grey>;
+}
+
+#network {
+    background-color: <blue>;
+    color: <light-grey>;
+}
+
+#network.disconnected {
+    background-color: <red>;
+    color: <light-grey>;
+    
+}
+
+#pulseaudio {
+    background-color: <purple>;
+    color: <light-grey>;
+}
+
+#pulseaudio.bluetooth {
+    background-color: <blue>;
+    color: <light-grey>; 
+}
+
+#pulseaudio.muted {
+    background-color: <light-grey>;
+    color: <background>;
+}
+
+/* Sway */
+
+#mode {
+    background-color: <purple>;
+    color: <light-grey>;
+}
+
+
+#window {
+    color: <light-grey>;
+}
+
+#workspaces button {
+    background-color: <background>;
+    color: <foreground>;
+}
+
+#workspaces button.visible button.focued {
+    background-color: <light-blue>;
+    color: <light-grey>;
+}
+
+#workspaces button.urgent {
+    background-color: <red>;
+    color: <light-grey>;
+}
+
+/* Custom blocks */
+
+#custom-spotify {
+    background: #66cc99;
+    color: #2a5c45;
+}

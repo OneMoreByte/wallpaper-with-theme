@@ -1,0 +1,104 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    min-height: 0;
+}
+
+
+window #waybar {
+    background: rgba(5, 11, 11, 0.9);
+    /*border-bottom: 3px solid rgba(100, 114, 125, 0.5);*/
+    color: #b9ada5;
+}
+
+#battery {
+    background-color: #7c837f;
+    color: #142f2f;
+}
+
+#battery.warning {
+    background-color: #a2a095;
+    color: #f8f7f7;
+}
+
+#battery.critical {
+    background-color: #6b625f;
+    color: #f8f7f7;
+}
+
+#clock {
+    background-color: #dad7d8;
+    color: #f8f7f7;
+}
+
+#cpu {
+    background-color: #8a8276;
+    color: #f8f7f7;
+}
+
+#memory {
+    background-color: #7c837f;
+    color: #f8f7f7;
+}
+
+#network {
+    background-color: #80837a;
+    color: #f8f7f7;
+}
+
+#network.disconnected {
+    background-color: #6b625f;
+    color: #f8f7f7;
+    
+}
+
+#pulseaudio {
+    background-color: #8a8276;
+    color: #f8f7f7;
+}
+
+#pulseaudio.bluetooth {
+    background-color: #80837a;
+    color: #f8f7f7; 
+}
+
+#pulseaudio.muted {
+    background-color: #f8f7f7;
+    color: #050b0b;
+}
+
+/* Sway */
+
+#mode {
+    background-color: #8a8276;
+    color: #f8f7f7;
+}
+
+
+#window {
+    color: #f8f7f7;
+}
+
+#workspaces button {
+    background-color: #050b0b;
+    color: #b9ada5;
+}
+
+#workspaces button.visible button.focued {
+    background-color: #9fa297;
+    color: #f8f7f7;
+}
+
+#workspaces button.urgent {
+    background-color: #6b625f;
+    color: #f8f7f7;
+}
+
+/* Custom blocks */
+
+#custom-spotify {
+    background: #66cc99;
+    color: #2a5c45;
+}

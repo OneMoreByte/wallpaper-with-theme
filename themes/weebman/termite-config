@@ -1,0 +1,29 @@
+[options]
+font = Jam-icons Terminus
+font = Hack
+#font = nack 16px
+
+size_hints = true
+scrollbar = right
+
+
+[colors]
+background = rgba(0, 0, 0, 0.9)
+foreground = #e69868
+cursor = #e69868
+color0 = #1a1a1a
+color1 = #e93721
+color2 = #98792d
+color3 = #8a7f63
+color4 = #d7c39a
+color5 = #e0c89d
+color6 = #9c774d
+color7 = #e6d7cc
+color8 = #333333
+color9 = #f16756
+color10 = #c69e3d
+color11 = #a89d82
+color12 = #f2e0bb
+color13 = #fae5c1
+color14 = #b9966d
+color15 = #faf7f5

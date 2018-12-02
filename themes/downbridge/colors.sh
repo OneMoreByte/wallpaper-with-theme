@@ -1,23 +1,23 @@
 
 # Special
-background='#000000'
-foreground='#9abfd4'
-cursor='#9abfd4'
+background=#000000
+foreground=#9abfd4
+cursor=#9abfd4
 
 # Colors
-color0='#240f0f'
-color1='#90785c'
-color2='#727e94'
-color3='#928c6f'
-color4='#3472ae'
-color5='#837e6c'
-color6='#787f7b'
-color7='#dddbd4'
-color8='#471f1f'
-color9='#ad967c'
-color10='#939db1'
-color11='#aea98f'
-color12='#5290cd'
-color13='#a19d8b'
-color14='#959f9a'
-color15='#fefaf1'
+color0=#240f0f
+color1=#898283
+color2=#6e7f9f
+color3=#9c8a56
+color4=#437ec6
+color5=#978c6e
+color6=#7e8d9d
+color7=#dbdad6
+color8=#471f1f
+color9=#a99fa1
+color10=#909eba
+color11=#b7a778
+color12=#6f9ed7
+color13=#b3a98f
+color14=#9dabbb
+color15=#fefaf1

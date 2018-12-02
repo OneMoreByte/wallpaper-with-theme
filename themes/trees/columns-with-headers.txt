@@ -1,25 +1,25 @@
 Background
-#b9ada5
+#050b0b
 
 Foreground
-#001010
+#b9ada5
 
 Normal ANSI Colors
-#39312d
-#413c3b
-#5b5b55
-#5d5b55
-#615c54
-#413c38
-#735542
-#dad8d8
+#142f2f
+#6b625f
+#7c837f
+#828178
+#80837a
+#8a8276
+#7d5e4a
+#dad7d8
 
 Bright ANSI Colors
-#564a43
-#615a58
-#7a7b73
-#7d7a72
-#827b70
-#625b55
-#9a7158
+#235353
+#8b807b
+#99a39e
+#a2a095
+#9fa297
+#a8a195
+#a37b62
 #f8f7f7
