@@ -3,158 +3,158 @@
 These are the themes you can use.
 
 ## above
-![above/example.html](./above/wallpaper-preview.jpg)
-![terminal colors for above](above/swatch.jpg)
+![themes/above/example.html](themes/above/wallpaper-preview.jpg)
+![themes/terminal colors for above](themes/above/swatch.jpg)
 ## alley
-![alley/example.html](alley/wallpaper-preview.jpg)
-![terminal colors for alley](alley/swatch.jpg)
+![themes/alley/example.html](themes/alley/wallpaper-preview.jpg)
+![themes/terminal colors for alley](themes/alley/swatch.jpg)
 ## barn
-![barn/example.html](barn/wallpaper-preview.jpg)
-![terminal colors for barn](barn/swatch.jpg)
+![themes/barn/example.html](themes/barn/wallpaper-preview.jpg)
+![themes/terminal colors for barn](themes/barn/swatch.jpg)
 ## beijing-future
-![beijing-future/example.html](beijing-future/wallpaper-preview.jpg)
-![terminal colors for beijing-future](beijing-future/swatch.jpg)
+![themes/beijing-future/example.html](themes/beijing-future/wallpaper-preview.jpg)
+![themes/terminal colors for beijing-future](themes/beijing-future/swatch.jpg)
 ## bitofgreen
-![bitofgreen/example.html](bitofgreen/wallpaper-preview.jpg)
-![terminal colors for bitofgreen](bitofgreen/swatch.jpg)
+![themes/bitofgreen/example.html](themes/bitofgreen/wallpaper-preview.jpg)
+![themes/terminal colors for bitofgreen](themes/bitofgreen/swatch.jpg)
 ## blue
-![blue/example.html](blue/wallpaper-preview.jpg)
-![terminal colors for blue](blue/swatch.jpg)
+![themes/blue/example.html](themes/blue/wallpaper-preview.jpg)
+![themes/terminal colors for blue](themes/blue/swatch.jpg)
 ## boatbridge
-![boatbridge/example.html](boatbridge/wallpaper-preview.jpg)
-![terminal colors for boatbridge](boatbridge/swatch.jpg)
+![themes/boatbridge/example.html](themes/boatbridge/wallpaper-preview.jpg)
+![themes/terminal colors for boatbridge](themes/boatbridge/swatch.jpg)
 ## boatside
-![boatside/example.html](boatside/wallpaper-preview.jpg)
-![terminal colors for boatside](boatside/swatch.jpg)
+![themes/boatside/example.html](themes/boatside/wallpaper-preview.jpg)
+![themes/terminal colors for boatside](themes/boatside/swatch.jpg)
 ## bridge
-![bridge/example.html](bridge/wallpaper-preview.jpg)
-![terminal colors for bridge](bridge/swatch.jpg)
+![themes/bridge/example.html](themes/bridge/wallpaper-preview.jpg)
+![themes/terminal colors for bridge](themes/bridge/swatch.jpg)
 ## carcoffee
-![carcoffee/example.html](carcoffee/wallpaper-preview.jpg)
-![terminal colors for carcoffee](carcoffee/swatch.jpg)
+![themes/carcoffee/example.html](themes/carcoffee/wallpaper-preview.jpg)
+![themes/terminal colors for carcoffee](themes/carcoffee/swatch.jpg)
 ## cloads
-![cloads/example.html](cloads/wallpaper-preview.jpg)
-![terminal colors for cloads](cloads/swatch.jpg)
+![themes/cloads/example.html](themes/cloads/wallpaper-preview.jpg)
+![themes/terminal colors for cloads](themes/cloads/swatch.jpg)
 ## colors
-![colors/example.html](colors/wallpaper-preview.jpg)
-![terminal colors for colors](colors/swatch.jpg)
+![themes/colors/example.html](themes/colors/wallpaper-preview.jpg)
+![themes/terminal colors for colors](themes/colors/swatch.jpg)
 ## color-trees
-![color-trees/example.html](color-trees/wallpaper-preview.jpg)
-![terminal colors for color-trees](color-trees/swatch.jpg)
+![themes/color-trees/example.html](themes/color-trees/wallpaper-preview.jpg)
+![themes/terminal colors for color-trees](themes/color-trees/swatch.jpg)
 ## couple-of-paintins
-![couple-of-paintins/example.html](couple-of-paintins/wallpaper-preview.jpg)
-![terminal colors for couple-of-paintins](couple-of-paintins/swatch.jpg)
+![themes/couple-of-paintins/example.html](themes/couple-of-paintins/wallpaper-preview.jpg)
+![themes/terminal colors for couple-of-paintins](themes/couple-of-paintins/swatch.jpg)
 ## dark
-![dark/example.html](dark/wallpaper-preview.jpg)
-![terminal colors for dark](dark/swatch.jpg)
+![themes/dark/example.html](themes/dark/wallpaper-preview.jpg)
+![themes/terminal colors for dark](themes/dark/swatch.jpg)
 ## desk
-![desk/example.html](desk/wallpaper-preview.jpg)
-![terminal colors for desk](desk/swatch.jpg)
+![themes/desk/example.html](themes/desk/wallpaper-preview.jpg)
+![themes/terminal colors for desk](themes/desk/swatch.jpg)
 ## downbridge
-![downbridge/example.html](downbridge/wallpaper-preview.jpg)
-![terminal colors for downbridge](downbridge/swatch.jpg)
+![themes/downbridge/example.html](themes/downbridge/wallpaper-preview.jpg)
+![themes/terminal colors for downbridge](themes/downbridge/swatch.jpg)
 ## fallsandbridge
-![fallsandbridge/example.html](fallsandbridge/wallpaper-preview.jpg)
-![terminal colors for fallsandbridge](fallsandbridge/swatch.jpg)
+![themes/fallsandbridge/example.html](themes/fallsandbridge/wallpaper-preview.jpg)
+![themes/terminal colors for fallsandbridge](themes/fallsandbridge/swatch.jpg)
 ## floatyisland
-![floatyisland/example.html](floatyisland/wallpaper-preview.jpg)
-![terminal colors for floatyisland](floatyisland/swatch.jpg)
+![themes/floatyisland/example.html](themes/floatyisland/wallpaper-preview.jpg)
+![themes/terminal colors for floatyisland](themes/floatyisland/swatch.jpg)
 ## foobar
-![foobar/example.html](foobar/wallpaper-preview.jpg)
-![terminal colors for foobar](foobar/swatch.jpg)
+![themes/foobar/example.html](themes/foobar/wallpaper-preview.jpg)
+![themes/terminal colors for foobar](themes/foobar/swatch.jpg)
 ## greylighthouse
-![greylighthouse/example.html](greylighthouse/wallpaper-preview.jpg)
-![terminal colors for greylighthouse](greylighthouse/swatch.jpg)
+![themes/greylighthouse/example.html](themes/greylighthouse/wallpaper-preview.jpg)
+![themes/terminal colors for greylighthouse](themes/greylighthouse/swatch.jpg)
 ## heckinghole
-![heckinghole/example.html](heckinghole/wallpaper-preview.jpg)
-![terminal colors for heckinghole](heckinghole/swatch.jpg)
+![themes/heckinghole/example.html](themes/heckinghole/wallpaper-preview.jpg)
+![themes/terminal colors for heckinghole](themes/heckinghole/swatch.jpg)
 ## lakill
-![lakill/example.html](lakill/wallpaper-preview.jpg)
-![terminal colors for lakill](lakill/swatch.jpg)
+![themes/lakill/example.html](themes/lakill/wallpaper-preview.jpg)
+![themes/terminal colors for lakill](themes/lakill/swatch.jpg)
 ## littlecave
-![littlecave/example.html](littlecave/wallpaper-preview.jpg)
-![terminal colors for littlecave](littlecave/swatch.jpg)
+![themes/littlecave/example.html](themes/littlecave/wallpaper-preview.jpg)
+![themes/terminal colors for littlecave](themes/littlecave/swatch.jpg)
 ## lone-tree
-![lone-tree/example.html](lone-tree/wallpaper-preview.jpg)
-![terminal colors for lone-tree](lone-tree/swatch.jpg)
+![themes/lone-tree/example.html](themes/lone-tree/wallpaper-preview.jpg)
+![themes/terminal colors for lone-tree](themes/lone-tree/swatch.jpg)
 ## mushrooms
-![mushrooms/example.html](mushrooms/wallpaper-preview.jpg)
-![terminal colors for mushrooms](mushrooms/swatch.jpg)
+![themes/mushrooms/example.html](themes/mushrooms/wallpaper-preview.jpg)
+![themes/terminal colors for mushrooms](themes/mushrooms/swatch.jpg)
 ## neoncieling
-![neoncieling/example.html](neoncieling/wallpaper-preview.jpg)
-![terminal colors for neoncieling](neoncieling/swatch.jpg)
+![themes/neoncieling/example.html](themes/neoncieling/wallpaper-preview.jpg)
+![themes/terminal colors for neoncieling](themes/neoncieling/swatch.jpg)
 ## pool
-![pool/example.html](pool/wallpaper-preview.jpg)
-![terminal colors for pool](pool/swatch.jpg)
+![themes/pool/example.html](themes/pool/wallpaper-preview.jpg)
+![themes/terminal colors for pool](themes/pool/swatch.jpg)
 ## pop
-![pop/example.html](pop/wallpaper-preview.jpg)
-![terminal colors for pop](pop/swatch.jpg)
+![themes/pop/example.html](themes/pop/wallpaper-preview.jpg)
+![themes/terminal colors for pop](themes/pop/swatch.jpg)
 ## redtrees
-![redtrees/example.html](redtrees/wallpaper-preview.jpg)
-![terminal colors for redtrees](redtrees/swatch.jpg)
+![themes/redtrees/example.html](themes/redtrees/wallpaper-preview.jpg)
+![themes/terminal colors for redtrees](themes/redtrees/swatch.jpg)
 ## room
-![room/example.html](room/wallpaper-preview.jpg)
-![terminal colors for room](room/swatch.jpg)
+![themes/room/example.html](themes/room/wallpaper-preview.jpg)
+![themes/terminal colors for room](themes/room/swatch.jpg)
 ## sidefall
-![sidefall/example.html](sidefall/wallpaper-preview.jpg)
-![terminal colors for sidefall](sidefall/swatch.jpg)
+![themes/sidefall/example.html](themes/sidefall/wallpaper-preview.jpg)
+![themes/terminal colors for sidefall](themes/sidefall/swatch.jpg)
 ## sidewaystree
-![sidewaystree/example.html](sidewaystree/wallpaper-preview.jpg)
-![terminal colors for sidewaystree](sidewaystree/swatch.jpg)
+![themes/sidewaystree/example.html](themes/sidewaystree/wallpaper-preview.jpg)
+![themes/terminal colors for sidewaystree](themes/sidewaystree/swatch.jpg)
 ## skipe
-![skipe/example.html](skipe/wallpaper-preview.jpg)
-![terminal colors for skipe](skipe/swatch.jpg)
+![themes/skipe/example.html](themes/skipe/wallpaper-preview.jpg)
+![themes/terminal colors for skipe](themes/skipe/swatch.jpg)
 ## spaceship
-![spaceship/example.html](spaceship/wallpaper-preview.jpg)
-![terminal colors for spaceship](spaceship/swatch.jpg)
+![themes/spaceship/example.html](themes/spaceship/wallpaper-preview.jpg)
+![themes/terminal colors for spaceship](themes/spaceship/swatch.jpg)
 ## spookieship
-![spookieship/example.html](spookieship/wallpaper-preview.jpg)
-![terminal colors for spookieship](spookieship/swatch.jpg)
+![themes/spookieship/example.html](themes/spookieship/wallpaper-preview.jpg)
+![themes/terminal colors for spookieship](themes/spookieship/swatch.jpg)
 ## spoopy-trees
-![spoopy-trees/example.html](spoopy-trees/wallpaper-preview.jpg)
-![terminal colors for spoopy-trees](spoopy-trees/swatch.jpg)
+![themes/spoopy-trees/example.html](themes/spoopy-trees/wallpaper-preview.jpg)
+![themes/terminal colors for spoopy-trees](themes/spoopy-trees/swatch.jpg)
 ## stiltlakehouse
-![stiltlakehouse/example.html](stiltlakehouse/wallpaper-preview.jpg)
-![terminal colors for stiltlakehouse](stiltlakehouse/swatch.jpg)
+![themes/stiltlakehouse/example.html](themes/stiltlakehouse/wallpaper-preview.jpg)
+![themes/terminal colors for stiltlakehouse](themes/stiltlakehouse/swatch.jpg)
 ## stoplight
-![stoplight/example.html](stoplight/wallpaper-preview.jpg)
-![terminal colors for stoplight](stoplight/swatch.jpg)
+![themes/stoplight/example.html](themes/stoplight/wallpaper-preview.jpg)
+![themes/terminal colors for stoplight](themes/stoplight/swatch.jpg)
 ## sunset
-![sunset/example.html](sunset/wallpaper-preview.jpg)
-![terminal colors for sunset](sunset/swatch.jpg)
+![themes/sunset/example.html](themes/sunset/wallpaper-preview.jpg)
+![themes/terminal colors for sunset](themes/sunset/swatch.jpg)
 ## sunset-valley
-![sunset-valley/example.html](sunset-valley/wallpaper-preview.jpg)
-![terminal colors for sunset-valley](sunset-valley/swatch.jpg)
+![themes/sunset-valley/example.html](themes/sunset-valley/wallpaper-preview.jpg)
+![themes/terminal colors for sunset-valley](themes/sunset-valley/swatch.jpg)
 ## traintracks
-![traintracks/example.html](traintracks/wallpaper-preview.jpg)
-![terminal colors for traintracks](traintracks/swatch.jpg)
+![themes/traintracks/example.html](themes/traintracks/wallpaper-preview.jpg)
+![themes/terminal colors for traintracks](themes/traintracks/swatch.jpg)
 ## trees
-![trees/example.html](trees/wallpaper-preview.jpg)
-![terminal colors for trees](trees/swatch.jpg)
+![themes/trees/example.html](themes/trees/wallpaper-preview.jpg)
+![themes/terminal colors for trees](themes/trees/swatch.jpg)
 ## van-on-road
-![van-on-road/example.html](van-on-road/wallpaper-preview.jpg)
-![terminal colors for van-on-road](van-on-road/swatch.jpg)
+![themes/van-on-road/example.html](themes/van-on-road/wallpaper-preview.jpg)
+![themes/terminal colors for van-on-road](themes/van-on-road/swatch.jpg)
 ## walledgarden
-![walledgarden/example.html](walledgarden/wallpaper-preview.jpg)
-![terminal colors for walledgarden](walledgarden/swatch.jpg)
+![themes/walledgarden/example.html](themes/walledgarden/wallpaper-preview.jpg)
+![themes/terminal colors for walledgarden](themes/walledgarden/swatch.jpg)
 ## watchoutforsteephill
-![watchoutforsteephill/example.html](watchoutforsteephill/wallpaper-preview.jpg)
-![terminal colors for watchoutforsteephill](watchoutforsteephill/swatch.jpg)
+![themes/watchoutforsteephill/example.html](themes/watchoutforsteephill/wallpaper-preview.jpg)
+![themes/terminal colors for watchoutforsteephill](themes/watchoutforsteephill/swatch.jpg)
 ## waterfall2
-![waterfall2/example.html](waterfall2/wallpaper-preview.jpg)
-![terminal colors for waterfall2](waterfall2/swatch.jpg)
+![themes/waterfall2/example.html](themes/waterfall2/wallpaper-preview.jpg)
+![themes/terminal colors for waterfall2](themes/waterfall2/swatch.jpg)
 ## waterwithafoot
-![waterwithafoot/example.html](waterwithafoot/wallpaper-preview.jpg)
-![terminal colors for waterwithafoot](waterwithafoot/swatch.jpg)
+![themes/waterwithafoot/example.html](themes/waterwithafoot/wallpaper-preview.jpg)
+![themes/terminal colors for waterwithafoot](themes/waterwithafoot/swatch.jpg)
 ## wealllivedownhere
-![wealllivedownhere/example.html](wealllivedownhere/wallpaper-preview.jpg)
-![terminal colors for wealllivedownhere](wealllivedownhere/swatch.jpg)
+![themes/wealllivedownhere/example.html](themes/wealllivedownhere/wallpaper-preview.jpg)
+![themes/terminal colors for wealllivedownhere](themes/wealllivedownhere/swatch.jpg)
 ## weebman
-![weebman/example.html](weebman/wallpaper-preview.jpg)
-![terminal colors for weebman](weebman/swatch.jpg)
+![themes/weebman/example.html](themes/weebman/wallpaper-preview.jpg)
+![themes/terminal colors for weebman](themes/weebman/swatch.jpg)
 ## wifuhitandrun
-![wifuhitandrun/example.html](wifuhitandrun/wallpaper-preview.jpg)
-![terminal colors for wifuhitandrun](wifuhitandrun/swatch.jpg)
+![themes/wifuhitandrun/example.html](themes/wifuhitandrun/wallpaper-preview.jpg)
+![themes/terminal colors for wifuhitandrun](themes/wifuhitandrun/swatch.jpg)
 ## winstonsinagog
-![winstonsinagog/example.html](winstonsinagog/wallpaper-preview.jpg)
-![terminal colors for winstonsinagog](winstonsinagog/swatch.jpg)
+![themes/winstonsinagog/example.html](themes/winstonsinagog/wallpaper-preview.jpg)
+![themes/terminal colors for winstonsinagog](themes/winstonsinagog/swatch.jpg)
