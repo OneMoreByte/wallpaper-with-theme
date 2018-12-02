@@ -20,8 +20,8 @@ for wallpaper in ${loc}/wallpapers/*.jpg; do
 
     ## Write readme line
     echo "## ${trimmed}
-![${trimmed}/example.html](${trimmed}/wallpaper-preview.jpg)
-![terminal colors for ${trimmed}](${trimmed}/swatch.jpg)" >> $loc/readme.md
+![themes/${trimmed}/example.html](themes/${trimmed}/wallpaper-preview.jpg)
+![terminal colors for themes/${trimmed}](themes/${trimmed}/swatch.jpg)" >> $loc/readme.md
   fi
 done
 
