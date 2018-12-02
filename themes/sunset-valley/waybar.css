@@ -6,16 +6,20 @@
     min-height: 0;
 }
 
+#clock, #battery, #cpu, #memory, #network, #pulseaudio, #custom-spotify, #tray, #mode {
+    padding: 0 10px;
+    margin: 0 5px;
+}
 
-window #waybar {
-    background: rgba(10, 15, 22, 0.9);
+window#waybar {
+    background-color: rgba(10, 15, 22, 0.9);
     /*border-bottom: 3px solid rgba(100, 114, 125, 0.5);*/
     color: #fbc783;
 }
 
 #battery {
     background-color: #6c8494;
-    color: #19273a;
+    color: #f5f9fa;
 }
 
 #battery.warning {
@@ -29,8 +33,8 @@ window #waybar {
 }
 
 #clock {
-    background-color: #cbe1e6;
-    color: #f5f9fa;
+    background-color: #968c7b;
+    color: #fbc783;
 }
 
 #cpu {
@@ -84,10 +88,12 @@ window #waybar {
 #workspaces button {
     background-color: #0a0f16;
     color: #fbc783;
+    padding: 0 5px;
+    margin: 0 5px;
 }
 
-#workspaces button.visible button.focued {
-    background-color: #30b9d9;
+#workspaces button.focused {
+    background-color: #54adb0;
     color: #f5f9fa;
 }
 

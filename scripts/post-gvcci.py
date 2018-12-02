@@ -34,7 +34,7 @@ def main():
         wallpaper.thumbnail(size, Image.BICUBIC)
         wallpaper.save("./wallpaper-preview.jpg", "JPEG")
     except IOError:
-        print( "cannot create thumbnail for '%s'" % infil)
+        print( "cannot create thumbnail")
 
 ################ Termite config ########################
 

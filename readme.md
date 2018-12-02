@@ -3,7 +3,7 @@
 These are the themes you can use.
 
 ## above
-![above/example.html](above/wallpaper-preview.jpg)
+![above/example.html](./above/wallpaper-preview.jpg)
 ![terminal colors for above](above/swatch.jpg)
 ## alley
 ![alley/example.html](alley/wallpaper-preview.jpg)
