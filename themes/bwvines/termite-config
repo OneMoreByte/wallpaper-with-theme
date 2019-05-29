@@ -1,0 +1,28 @@
+[options]
+font = Hack Nerd Font
+#font = nack 16px
+
+size_hints = true
+scrollbar = right
+
+
+[colors]
+background = rgba(0, 0, 0, 0.9)
+foreground = #afafaf
+cursor = #afafaf
+color0 = #1a1a1a
+color1 = #dbdbdb
+color2 = #818181
+color3 = #838383
+color4 = #848484
+color5 = #838383
+color6 = #838383
+color7 = #d9d9d9
+color8 = #333333
+color9 = #fafafa
+color10 = #a29d9d
+color11 = #a49f9f
+color12 = #a6a1a1
+color13 = #a49f9f
+color14 = #a5a0a0
+color15 = #f7f7f7

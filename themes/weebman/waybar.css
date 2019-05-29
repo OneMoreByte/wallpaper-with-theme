@@ -1,8 +1,8 @@
 * {
     border: none;
     border-radius: 0;
-    font-family: Roboto, Helvetica, Arial, sans-serif;
-    font-size: 13px;
+    font-family: 'Hack Nerd Font', Helvetica, Arial, sans-serif;
+    font-size: 14px;
     min-height: 0;
 }
 
@@ -12,7 +12,7 @@
 }
 
 window#waybar {
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 0.75);
     /*border-bottom: 3px solid rgba(100, 114, 125, 0.5);*/
     color: #e69868;
 }
@@ -34,7 +34,7 @@ window#waybar {
 
 #clock {
     background-color: #8a7f63;
-    color: #e69868;
+    color: #faf7f5;
 }
 
 #cpu {
@@ -82,18 +82,18 @@ window#waybar {
 
 
 #window {
-    color: #faf7f5;
+    color: #e69868;
 }
 
 #workspaces button {
-    background-color: #000000;
-    color: #e69868;
-    padding: 0 5px;
-    margin: 0 5px;
+    background-color: #8a7f63;
+    color: #faf7f5;
+    padding: 0 6px;
+    margin: 0 2px;
 }
 
 #workspaces button.focused {
-    background-color: #9c774d;
+    background-color: #d7c39a;
     color: #faf7f5;
 }
 

@@ -158,3 +158,66 @@ These are the themes you can use.
 ## winstonsinagog
 ![themes/winstonsinagog/example.html](themes/winstonsinagog/wallpaper-preview.jpg)
 ![themes/terminal colors for winstonsinagog](themes/winstonsinagog/swatch.jpg)
+## turkchan
+![themes/turkchan/example.html](themes/turkchan/wallpaper-preview.jpg)
+![terminal colors for themes/turkchan](themes/turkchan/swatch.jpg)
+## turkchan
+![themes/turkchan/example.html](themes/turkchan/wallpaper-preview.jpg)
+![terminal colors for themes/turkchan](themes/turkchan/swatch.jpg)
+## turkchan
+![themes/turkchan/example.html](themes/turkchan/wallpaper-preview.jpg)
+![terminal colors for themes/turkchan](themes/turkchan/swatch.jpg)
+## turkchan
+![themes/turkchan/example.html](themes/turkchan/wallpaper-preview.jpg)
+![terminal colors for themes/turkchan](themes/turkchan/swatch.jpg)
+## turkchan
+![themes/turkchan/example.html](themes/turkchan/wallpaper-preview.jpg)
+![terminal colors for themes/turkchan](themes/turkchan/swatch.jpg)
+## amd-bulldozer
+![themes/amd-bulldozer/example.html](themes/amd-bulldozer/wallpaper-preview.jpg)
+![terminal colors for themes/amd-bulldozer](themes/amd-bulldozer/swatch.jpg)
+## balance
+![themes/balance/example.html](themes/balance/wallpaper-preview.jpg)
+![terminal colors for themes/balance](themes/balance/swatch.jpg)
+## benchie
+![themes/benchie/example.html](themes/benchie/wallpaper-preview.jpg)
+![terminal colors for themes/benchie](themes/benchie/swatch.jpg)
+## bwvines
+![themes/bwvines/example.html](themes/bwvines/wallpaper-preview.jpg)
+![terminal colors for themes/bwvines](themes/bwvines/swatch.jpg)
+## cream
+![themes/cream/example.html](themes/cream/wallpaper-preview.jpg)
+![terminal colors for themes/cream](themes/cream/swatch.jpg)
+## damn
+![themes/damn/example.html](themes/damn/wallpaper-preview.jpg)
+![terminal colors for themes/damn](themes/damn/swatch.jpg)
+## dank-power
+![themes/dank-power/example.html](themes/dank-power/wallpaper-preview.jpg)
+![terminal colors for themes/dank-power](themes/dank-power/swatch.jpg)
+## dual-bikes
+![themes/dual-bikes/example.html](themes/dual-bikes/wallpaper-preview.jpg)
+![terminal colors for themes/dual-bikes](themes/dual-bikes/swatch.jpg)
+## field
+![themes/field/example.html](themes/field/wallpaper-preview.jpg)
+![terminal colors for themes/field](themes/field/swatch.jpg)
+## floaty
+![themes/floaty/example.html](themes/floaty/wallpaper-preview.jpg)
+![terminal colors for themes/floaty](themes/floaty/swatch.jpg)
+## foch
+![themes/foch/example.html](themes/foch/wallpaper-preview.jpg)
+![terminal colors for themes/foch](themes/foch/swatch.jpg)
+## how-would-you-like-to-hear-a-story-about-a-bridge
+![themes/how-would-you-like-to-hear-a-story-about-a-bridge/example.html](themes/how-would-you-like-to-hear-a-story-about-a-bridge/wallpaper-preview.jpg)
+![terminal colors for themes/how-would-you-like-to-hear-a-story-about-a-bridge](themes/how-would-you-like-to-hear-a-story-about-a-bridge/swatch.jpg)
+## muff
+![themes/muff/example.html](themes/muff/wallpaper-preview.jpg)
+![terminal colors for themes/muff](themes/muff/swatch.jpg)
+## over-exposed
+![themes/over-exposed/example.html](themes/over-exposed/wallpaper-preview.jpg)
+![terminal colors for themes/over-exposed](themes/over-exposed/swatch.jpg)
+## people-like-grapes
+![themes/people-like-grapes/example.html](themes/people-like-grapes/wallpaper-preview.jpg)
+![terminal colors for themes/people-like-grapes](themes/people-like-grapes/swatch.jpg)
+## poll
+![themes/poll/example.html](themes/poll/wallpaper-preview.jpg)
+![terminal colors for themes/poll](themes/poll/swatch.jpg)

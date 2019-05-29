@@ -1,0 +1,23 @@
+
+# Special
+background=#ede1d1
+foreground=#0e0e12
+cursor=#0e0e12
+
+# Colors
+color0=#4a361c
+color1=#9d4c3a
+color2=#a97302
+color3=#a77818
+color4=#af7505
+color5=#a8761a
+color6=#b36f06
+color7=#dfd9d3
+color8=#6f512a
+color9=#c06754
+color10=#e69d02
+color11=#dd9f1f
+color12=#eb9d06
+color13=#dd9b21
+color14=#ee9308
+color15=#f9f7f6

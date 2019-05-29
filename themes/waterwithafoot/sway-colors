@@ -1,0 +1,5 @@
+# This loads colors based on the theme
+client.focused #c35802 #c35802 #f7f7f8 #d5d6da #d5d6da
+client.unfocused #d6d8db #d6d8db #484a51 #f7f7f8 #f7f7f8
+client.focused_inactive #515b67 #515b67 #f7f7f8 #f7f7f8 #f7f7f8
+client.urgent #7a776b #7a776b #f7f7f8 #d5d6da #d5d6da

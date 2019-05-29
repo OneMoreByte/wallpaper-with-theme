@@ -1,0 +1,33 @@
+{
+    "name": "Gvcci",
+    "comment": "Gvcci generated theme.",
+    "foreground-color": "#f3eeec",
+    "background-color": "#000000",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#000000",
+    "highlight-background-color": "#a7b0ab",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#8b8f8d",
+    "cursor-background-color": "#8b8f8d",
+    "use-badge-color": true,
+    "badge-color": "#f3eeec",
+    "palette": [
+        "#1a1a1a",
+        "#8c8071",
+        "#8985a4",
+        "#868185",
+        "#427fd2",
+        "#30a8f3",
+        "#748c95",
+        "#d2d8df",
+        "#333333",
+        "#aa9e90",
+        "#a7a3c2",
+        "#a79ea4",
+        "#70a0e1",
+        "#66c1fb",
+        "#94aab2",
+        "#f6f7f9"
+    ]
+}
