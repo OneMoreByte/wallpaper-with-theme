@@ -221,3 +221,24 @@ These are the themes you can use.
 ## poll
 ![themes/poll/example.html](themes/poll/wallpaper-preview.jpg)
 ![terminal colors for themes/poll](themes/poll/swatch.jpg)
+## blackflour
+![themes/blackflour/example.html](themes/blackflour/wallpaper-preview.jpg)
+![terminal colors for themes/blackflour](themes/blackflour/swatch.jpg)
+## pinkbridge
+![themes/pinkbridge/example.html](themes/pinkbridge/wallpaper-preview.jpg)
+![terminal colors for themes/pinkbridge](themes/pinkbridge/swatch.jpg)
+## skyline
+![themes/skyline/example.html](themes/skyline/wallpaper-preview.jpg)
+![terminal colors for themes/skyline](themes/skyline/swatch.jpg)
+## vibrantbridge
+![themes/vibrantbridge/example.html](themes/vibrantbridge/wallpaper-preview.jpg)
+![terminal colors for themes/vibrantbridge](themes/vibrantbridge/swatch.jpg)
+## vlan
+![themes/vlan/example.html](themes/vlan/wallpaper-preview.jpg)
+![terminal colors for themes/vlan](themes/vlan/swatch.jpg)
+## wavy-grape-road
+![themes/wavy-grape-road/example.html](themes/wavy-grape-road/wallpaper-preview.jpg)
+![terminal colors for themes/wavy-grape-road](themes/wavy-grape-road/swatch.jpg)
+## willow
+![themes/willow/example.html](themes/willow/wallpaper-preview.jpg)
+![terminal colors for themes/willow](themes/willow/swatch.jpg)

@@ -38,9 +38,9 @@ for wal in $loc/themes/*/wallpaper; do
 done
 
 # Make convience links for the mac side
-for theme in $loc/themes/*; do
-    name=${theme#"${loc}"}
-    ln -s $wal $loc/iterm-configs/${name}.itermcolors
-done
+#for theme in $loc/themes/*; do
+#    name=${theme#"${loc}"}
+#    ln -s $wal $loc/iterm-configs/${name}.itermcolors
+#done
 
 $loc/scripts/fix-color.sh
